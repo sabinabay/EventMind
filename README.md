@@ -33,3 +33,5 @@ AI-агент для ивент-маркетинга: pipeline + tool use + sema
 1. Установи зависимости: `pip install groq sentence-transformers duckduckgo-search gradio`
 2. Добавь Groq API ключ в код
 3. Запусти: `python app.py`
+
+Демо: huggingface.co/spaces/sabinabay/eventmind
