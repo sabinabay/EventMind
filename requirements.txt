@@ -1,0 +1,6 @@
+groq
+gradio
+sentence-transformers
+duckduckgo-search
+scikit-learn
+numpy
